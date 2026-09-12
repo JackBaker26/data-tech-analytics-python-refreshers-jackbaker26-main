@@ -96,20 +96,21 @@ PYDEVD_DISABLE_FILE_VALIDATION=1 JUPYTER_PLATFORM_DIRS=1 pytest --capture=sys
 
 **I learned:** (repeat as needed)
 - .
+A good python refresher along with more indepth learning for numpy.
 
 **I struggled with:** (repeat as needed)
-- .
+- . Getting numpy to work but changing the kernel fixed it.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . Clarification on poetry,
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
-
+[1 ] hours.
+It wasn't too difficult as most of it was a refresher
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- . Try to understand the checker cell below each question.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ 20] out of 20.
 
 --------------------
 ## 📚 References and Citations
