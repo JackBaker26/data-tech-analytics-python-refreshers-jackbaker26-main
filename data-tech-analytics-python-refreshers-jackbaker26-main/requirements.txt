@@ -1,0 +1,6 @@
+ipykernel==6.25.1
+black==23.7.0
+numpy==1.26.4
+testbook==0.4.2
+pytest==7.4.0
+jupyter==1.0.0
